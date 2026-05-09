@@ -1,2 +1,2 @@
-# Austral-investment-report
+# Australian-investment-report
 Report analyzing Australian funds
